@@ -36,6 +36,8 @@ It returns JSON data in the below format:
     }
 ]
 
+Go to the above link for properly idented JSON response
+
 If u want to add more data go to  http://127.0.0.1:8000/admin
 Log in using the below credentials:
   username: parth
